@@ -5,10 +5,12 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ROOT](https://img.shields.io/badge/-ROOT-3776AB?style=flat-square&logo=cern&logoColor=white)
 
-📍 **Shanghai Jiao Tong University** | ⚛️ **HEP Physics** | 🤖 **AI-Native Builder** | 🚀 **Ship It**
+📍 **Shanghai Jiao Tong University** | ⚛️ **HEP Physics** | 🚀 **AI-Native Shipper**
 
 ## AI-Native & Agent Tools
 
