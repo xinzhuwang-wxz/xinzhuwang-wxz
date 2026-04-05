@@ -8,7 +8,7 @@
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ROOT](https://img.shields.io/badge/-ROOT-3776AB?style=flat-square&logo=cern&logoColor=white)
 
-> Physics tells me how the world works. AI lets me ship it.
+📍 **Shanghai Jiao Tong University** | ⚛️ **HEP Physics** | 🤖 **AI-Native Builder** | 🚀 **Ship It**
 
 ## AI-Native & Agent Tools
 
