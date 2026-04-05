@@ -8,6 +8,8 @@
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ROOT](https://img.shields.io/badge/-ROOT-3776AB?style=flat-square&logo=cern&logoColor=white)
 
+> Physics tells me how the world works. AI lets me ship it.
+
 ## AI-Native & Agent Tools
 
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
@@ -16,13 +18,12 @@
 - 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — AI astronomical research assistant with LangGraph + MCP for Q&A, retrieval & classification
 - 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
+- 🌐 **[English_Korean_translation_transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation with custom corpus alignment
 
 ## Physics & ML Research
 
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
-- 🔬 **[Darkshine_cpp_tutorial](https://github.com/xinzhuwang-wxz/Darkshine_cpp_tutorial)** — Geant4 particle physics simulation: energy deposition tracking & dose calculation in detector geometries
-- 🌐 **[English_Korean_translation_transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation with custom corpus alignment
 
 ---
 
