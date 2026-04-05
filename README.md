@@ -10,7 +10,7 @@
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ROOT](https://img.shields.io/badge/-ROOT-3776AB?style=flat-square&logo=cern&logoColor=white)
 
-📍 **Shanghai Jiao Tong University** | ⚛️ **HEP Physics** | 🚀 **AI-Native Shipper**
+🌞 **AI-Native Shipper**
 
 ## AI-Native & Agent Tools
 
