@@ -7,14 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/-Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=a855f7" />
   <img src="https://img.shields.io/badge/-ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/-Gemini-0d1117?style=for-the-badge&logo=google-gemini&logoColor=e879f9" />
-  <img src="https://img.shields.io/badge/-LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
 </p>
 
 ## ⚡ AI-Native & Agent Tools
