@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/-LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:22d3ee&height=80&section=header&text=&fontSize=0" />
-
 ## ⚡ AI-Native & Agent Tools
 
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
