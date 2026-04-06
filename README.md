@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/-ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/-Gemini-0d1117?style=for-the-badge&logo=google-gemini&logoColor=e879f9" />
   <img src="https://img.shields.io/badge/-LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/-ROOT-0d1117?style=for-the-badge&logo=cern&logoColor=38bdf8" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:22d3ee&height=80&section=header&text=&fontSize=0" />
@@ -30,8 +29,6 @@
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
 - 🌐 **[English_Korean_translation_transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation with custom corpus alignment
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e879f9,100:a855f7&height=80&section=header&text=&fontSize=0" />
-
 ## 🔬 Physics & ML Research
 
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
@@ -42,8 +39,6 @@
   <img src="cr.png" width="280" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:22d3ee&height=80&section=header&text=&fontSize=0" />
-
 ## 🐍 Contributions
 
 <p align="center">
@@ -52,15 +47,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinzhuwang-wxz/xinzhuwang-wxz/output/github-snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/xinzhuwang-wxz/xinzhuwang-wxz/output/github-snake.svg" width="100%" />
   </picture>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:e879f9&height=80&section=header&text=&fontSize=0" />
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://www.physics.sjtu.edu.cn/jsml/Yoshitomo.html"><img src="https://img.shields.io/badge/-Physics_&_AI_Blog-0d1117?style=for-the-badge&logo=hugo&logoColor=e879f9" /></a>
-  <a href="https://github.com/xinzhuwang-wxz"><img src="https://img.shields.io/badge/-Follow-0d1117?style=for-the-badge&logo=github&logoColor=a855f7" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:a855f7,100:0d1117&height=150&section=footer&text=&fontSize=0" />
