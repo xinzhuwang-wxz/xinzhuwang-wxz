@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/-Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=a855f7" />
   <img src="https://img.shields.io/badge/-ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/-Gemini-0d1117?style=for-the-badge&logo=google-gemini&logoColor=e879f9" />
+  <img src="https://img.shields.io/badge/-MiniMax-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/-Doubao-0d1117?style=for-the-badge&logo=bytedance&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/-QWen-0d1117?style=for-the-badge&logo=alibaba-cloud&logoColor=ff6a00" />
 </p>
 
 ## ⚡ AI-Native & Agent Tools
