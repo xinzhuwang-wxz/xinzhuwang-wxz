@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:38bdf8&height=200&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:38bdf8&height=80&section=header&text=&fontSize=0" />
 
 <p align="center">
   <a href="https://github.com/xinzhuwang-wxz">
@@ -39,8 +39,6 @@
   <img src="cr.png" width="280" />
 </p>
 
-## 🐍 Contributions
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinzhuwang-wxz/xinzhuwang-wxz/output/github-snake-dark.svg" />
@@ -49,4 +47,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:a855f7,100:0d1117&height=150&section=footer&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:a855f7,100:0d1117&height=80&section=footer&text=&fontSize=0" />
