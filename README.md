@@ -1,18 +1,26 @@
-# Hi, I'm Maxen 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:38bdf8&height=200&section=header&text=&fontSize=0" />
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ROOT](https://img.shields.io/badge/-ROOT-3776AB?style=flat-square&logo=cern&logoColor=white)
+<p align="center">
+  <a href="https://github.com/xinzhuwang-wxz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hi%2C+I'm+Maxen+%F0%9F%91%8B;AI-Native+Shipper+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-🌞 **AI-Native Shipper**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/-Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/-ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/-Gemini-0d1117?style=for-the-badge&logo=google-gemini&logoColor=e879f9" />
+  <img src="https://img.shields.io/badge/-LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/-ROOT-0d1117?style=for-the-badge&logo=cern&logoColor=38bdf8" />
+</p>
 
-## AI-Native & Agent Tools
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:22d3ee&height=80&section=header&text=&fontSize=0" />
+
+## ⚡ AI-Native & Agent Tools
 
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
 - 🧠 **[OpenPE](https://github.com/xinzhuwang-wxz/OpenPE)** — LLM-driven first-principles causal analysis: competing hypotheses, evidence testing, explanatory power tracking
@@ -22,7 +30,9 @@
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
 - 🌐 **[English_Korean_translation_transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation with custom corpus alignment
 
-## Physics & ML Research
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e879f9,100:a855f7&height=80&section=header&text=&fontSize=0" />
+
+## 🔬 Physics & ML Research
 
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
@@ -32,11 +42,25 @@
   <img src="cr.png" width="280" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:22d3ee&height=80&section=header&text=&fontSize=0" />
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/xinzhuwang-wxz)
+## 🐍 Contributions
 
-## Connect
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinzhuwang-wxz/xinzhuwang-wxz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinzhuwang-wxz/xinzhuwang-wxz/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/xinzhuwang-wxz/xinzhuwang-wxz/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
-[![Blog](https://img.shields.io/badge/-Physics_&_AI_Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://www.physics.sjtu.edu.cn/jsml/Yoshitomo.html)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xinzhuwang-wxz)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:e879f9&height=80&section=header&text=&fontSize=0" />
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://www.physics.sjtu.edu.cn/jsml/Yoshitomo.html"><img src="https://img.shields.io/badge/-Physics_&_AI_Blog-0d1117?style=for-the-badge&logo=hugo&logoColor=e879f9" /></a>
+  <a href="https://github.com/xinzhuwang-wxz"><img src="https://img.shields.io/badge/-Follow-0d1117?style=for-the-badge&logo=github&logoColor=a855f7" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:a855f7,100:0d1117&height=150&section=footer&text=&fontSize=0" />
