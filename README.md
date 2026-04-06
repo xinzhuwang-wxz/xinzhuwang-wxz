@@ -28,6 +28,10 @@
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
 - 🔺 **[trihiggs_lorentznet_test_gpu](https://github.com/xinzhuwang-wxz/trihiggs_lorentznet_test_gpu)** — LorentzNet-based tri-Higgs event classification with GPU-accelerated training
 
+<p align="center">
+  <img src="cr.png" width="280" />
+</p>
+
 ---
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/xinzhuwang-wxz)
