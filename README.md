@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-MiniMax-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/-Doubao-0d1117?style=for-the-badge&logo=bytedance&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/-QWen-0d1117?style=for-the-badge&logo=alibaba-cloud&logoColor=ff6a00" />
+  <img src="https://img.shields.io/badge/-DeepSeek-0d1117?style=for-the-badge&logo=deepseek&logoColor=4d6bfe" />
 </p>
 
 ## ⚡ AI-Native & Agent Tools
