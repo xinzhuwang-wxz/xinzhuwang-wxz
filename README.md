@@ -31,6 +31,7 @@
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
 - 🔺 **[trihiggs_lorentznet_test_gpu](https://github.com/xinzhuwang-wxz/trihiggs_lorentznet_test_gpu)** — LorentzNet-based tri-Higgs event classification with GPU-accelerated training
+- 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Autonomous HEP research platform orchestrating 17 specialized agents through a 5-phase analysis pipeline with human oversight
 
 <p align="center">
   <img src="cr.png" width="280" />
