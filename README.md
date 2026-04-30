@@ -18,20 +18,21 @@
 
 ## ⚡ AI-Native & Agent Tools
 
+- 💭 **[Mnemosyne](https://github.com/xinzhuwang-wxz/Mnemosyne)** — Memory is an **agent-native cognitive infrastructure**
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
 - 🧠 **[OpenPE](https://github.com/xinzhuwang-wxz/OpenPE)** — LLM-driven first-principles causal analysis: competing hypotheses, evidence testing, explanatory power tracking
-- 🐱 **[Purr-Sight](https://github.com/xinzhuwang-wxz/Purr-Sight)** — Multimodal ML classifying 8 pet behavioral fields from images & audio
 - 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — AI astronomical research assistant with LangGraph + MCP for Q&A, retrieval & classification
 - 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
-- 🌐 **[EN-KO Transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation
+- 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 
 ## 🔬 Physics & ML Research
 
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
 - 🔺 **[trihiggs_lorentznet_test_gpu](https://github.com/xinzhuwang-wxz/trihiggs_lorentznet_test_gpu)** — LorentzNet-based tri-Higgs event classification with GPU-accelerated training
-- 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
+- 🐱 **[Purr-Sight](https://github.com/xinzhuwang-wxz/Purr-Sight)** — Multimodal ML classifying 8 pet behavioral fields from images & audio
+- 🌐 **[EN-KO Transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation
 
 <p align="center">
   <img src="cr.png" width="280" />
