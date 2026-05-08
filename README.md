@@ -29,6 +29,7 @@
 ## 🧩 Skills
 
 - 🧱 **[coherent-fullstack-skill](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Skill for writing fullstack code aligned across frontend, backend & database
+- 🔬 **[scientific-codebase-distillation-skill](https://github.com/xinzhuwang-wxz/scientific-codebase-distillation)** — 从代码库/论文中萃取方法论的技能
 
 ## 🔬 Physics & ML Research
 
