@@ -25,6 +25,7 @@
 - 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
+- 🧩 **[Coherent Fullstack](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Contract-first AI-native fullstack workflow with 16 production-ready packs to eliminate cross-layer drift
 
 ## 🔬 Physics & ML Research
 
