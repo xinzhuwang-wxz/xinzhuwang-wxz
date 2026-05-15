@@ -27,8 +27,9 @@
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
 
-## 🧩 Skills
+## 🧩 Skills & Architecture
 
+- 🛠️ **[agent-toolkit](https://github.com/xinzhuwang-wxz/agent-toolkit)** — provides the complete CLI and MCP Server infrastructure
 - 🧱 **[coherent-fullstack-skill](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Skill for writing fullstack code aligned across frontend, backend & database
 - 🔬 **[scientific-codebase-distillation-skill](https://github.com/xinzhuwang-wxz/scientific-codebase-distillation)** — Skill for distilling methodology from codebases & papers
 
