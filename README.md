@@ -24,7 +24,6 @@
 - 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — AI astronomical research assistant with LangGraph + MCP for Q&A, retrieval & classification
 - 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
-- 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
 - 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
 - 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — Agent-native codebase understanding platform with MCP Server
@@ -40,6 +39,7 @@
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
 - 🔺 **[trihiggs_lorentznet_test_gpu](https://github.com/xinzhuwang-wxz/trihiggs_lorentznet_test_gpu)** — LorentzNet-based tri-Higgs event classification with GPU-accelerated training
+- 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🐱 **[Purr-Sight](https://github.com/xinzhuwang-wxz/Purr-Sight)** — Multimodal ML classifying 8 pet behavioral fields from images & audio
 - 🌐 **[EN-KO Transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation
 
