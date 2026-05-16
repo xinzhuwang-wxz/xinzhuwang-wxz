@@ -26,6 +26,8 @@
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
+- 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — 一键将 Mac mini 变成共享终端，Tailscale 跨子网，人人能用
+- 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — 对人和 Agent 都友好的代码库理解系统，MCP Server + 知识图谱
 
 ## 🧩 Skills & Architecture
 
