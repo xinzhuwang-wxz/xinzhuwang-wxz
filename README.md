@@ -27,7 +27,7 @@
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
 - 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
-- 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — Agent-native codebase understanding platform with MCP Server + knowledge graph
+- 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — Agent-native codebase understanding platform with MCP Server
 
 ## 🧩 Skills & Architecture
 
