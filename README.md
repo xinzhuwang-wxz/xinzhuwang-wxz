@@ -33,6 +33,7 @@
 - 🛠️ **[agent-toolkit](https://github.com/xinzhuwang-wxz/agent-toolkit)** — provides the complete CLI and MCP Server infrastructure
 - 🧱 **[coherent-fullstack-skill](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Skill for writing fullstack code aligned across frontend, backend & database
 - 🔬 **[scientific-codebase-distillation-skill](https://github.com/xinzhuwang-wxz/scientific-codebase-distillation)** — Skill for distilling methodology from codebases & papers
+- 📖 **[paper-code-tutorial-skill](https://github.com/xinzhuwang-wxz/paper-code-tutorial-skill)** — Skill for turning papers & reference code into chapter-based bilingual visual tutorials
 
 ## 🔬 Physics & ML Research
 
@@ -42,6 +43,7 @@
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🐱 **[Purr-Sight](https://github.com/xinzhuwang-wxz/Purr-Sight)** — Multimodal ML classifying 8 pet behavioral fields from images & audio
 - 🌐 **[EN-KO Transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation
+- 🎓 **[model-tutorial](https://github.com/xinzhuwang-wxz/model-tutorial)** — Hands-on tutorials walking through classic ML & deep learning model implementations
 
 <p align="center">
   <img src="cr.png" width="280" />
