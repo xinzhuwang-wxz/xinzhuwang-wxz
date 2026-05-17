@@ -43,7 +43,7 @@
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
 - 🐱 **[Purr-Sight](https://github.com/xinzhuwang-wxz/Purr-Sight)** — Multimodal ML classifying 8 pet behavioral fields from images & audio
 - 🌐 **[EN-KO Transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation
-- 🎓 **[model-tutorial](https://github.com/xinzhuwang-wxz/model-tutorial)** — Hands-on tutorials walking through classic ML & deep learning model implementations
+- 🎓 **[model-tutorial](https://github.com/xinzhuwang-wxz/model-tutorial)** — Hands-on tutorials walking through classic deep learning models for high-energy physics
 
 <p align="center">
   <img src="cr.png" width="280" />
