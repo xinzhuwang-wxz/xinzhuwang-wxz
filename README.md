@@ -20,6 +20,7 @@
 
 - 💭 **[Mnemosyne](https://github.com/xinzhuwang-wxz/Mnemosyne)** — Memory is an **agent-native cognitive infrastructure**
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
+- 🍼 **[baby-agent](https://github.com/xinzhuwang-wxz/baby-agent)** — Lightweight CLI coding agent with local tools, skill loading & OpenAI-compatible providers
 - 🧠 **[OpenPE](https://github.com/xinzhuwang-wxz/OpenPE)** — LLM-driven first-principles causal analysis: competing hypotheses, evidence testing, explanatory power tracking
 - 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — AI astronomical research assistant with LangGraph + MCP for Q&A, retrieval & classification
 - 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
