@@ -18,6 +18,7 @@
 
 ## ⚡ AI-Native & Agent Tools
 
+- 🏙️ **[Nano-Lujiazui](https://github.com/xinzhuwang-wxz/Nano-Lujiazui)** — Personal 24/7 A-share trading workspace: native agent + paper autopilot with hard-coded safety gates, terminal-style cockpit & MCP
 - 💭 **[Mnemosyne](https://github.com/xinzhuwang-wxz/Mnemosyne)** — Memory is an **agent-native cognitive infrastructure**
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
 - 🍼 **[baby-agent](https://github.com/xinzhuwang-wxz/baby-agent)** — Lightweight CLI coding agent with local tools, skill loading & OpenAI-compatible providers
