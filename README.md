@@ -30,7 +30,7 @@
 - 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
 - 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
 - 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — Agent-native codebase understanding platform with MCP Server
-- 📕 **[xhs-extract-master](https://github.com/xinzhuwang-wxz/xhs-extract-master)** — Atomic, agent-first XHS (小红书) data extractor: 9 composable atoms emitting JSON, no login or API key
+- 📕 **[xhs-extract-master](https://github.com/xinzhuwang-wxz/xhs-extract-master)** — Agent-first XHS (小红书) extractor: 9 composable atoms, no login or API key
 
 ## 🧩 Skills & Architecture
 
