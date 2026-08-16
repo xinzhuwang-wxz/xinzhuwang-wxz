@@ -18,13 +18,15 @@
 
 ## ⚡ AI-Native & Agent Tools
 
+- 🧵 **[StyleCapture-plus](https://github.com/xinzhuwang-wxz/StyleCapture-plus)** — 像素风格数字衣橱，抖音创变者计划 AI 黑客松全国三等奖
+- 🌲 **[social--gamma](https://github.com/xinzhuwang-wxz/social--gamma)** — 社交森林，抖音创变者计划 AI 黑客松全国决赛「创意亮点与惊喜感」&「AI 能力运用与技术路径」奖
+- 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — 天文研究助手，交大浦江未来学院 AI for Science 黑客松三等奖
 - 🏙️ **[Nano-Lujiazui](https://github.com/xinzhuwang-wxz/Nano-Lujiazui)** — 24/7 agent-driven A-share trading workspace with hard-coded safety gates & terminal cockpit
 - 👗 **[ai-fashion-designer](https://github.com/xinzhuwang-wxz/ai-fashion-designer)** — Dual-canvas AI garment design studio: photo → cutout → variations → lineart → HD final
 - 💭 **[Mnemosyne](https://github.com/xinzhuwang-wxz/Mnemosyne)** — Memory is an **agent-native cognitive infrastructure**
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
 - 🍼 **[baby-agent](https://github.com/xinzhuwang-wxz/baby-agent)** — Lightweight CLI coding agent with local tools, skill loading & OpenAI-compatible providers
 - 🧠 **[OpenPE](https://github.com/xinzhuwang-wxz/OpenPE)** — LLM-driven first-principles causal analysis with competing hypotheses & evidence testing
-- 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — AI astronomical research assistant with LangGraph + MCP for Q&A, retrieval & classification
 - 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
 - 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
 - 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
