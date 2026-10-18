@@ -33,6 +33,7 @@
 - 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
 - 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — Agent-native codebase understanding platform with MCP Server
 - 📕 **[xhs-extract-master](https://github.com/xinzhuwang-wxz/xhs-extract-master)** — Agent-first XHS (小红书) extractor: 9 composable atoms, no login or API key
+- 🎯 **[Lite-OmniJev](https://github.com/xinzhuwang-wxz/Lite-OmniJev)** — Lightweight multimodal decision model
 
 ## 🧩 Skills & Architecture
 
