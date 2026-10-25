@@ -42,7 +42,6 @@
 - 🧱 **[coherent-fullstack-skill](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Skill for writing fullstack code aligned across frontend, backend & database
 - 🔬 **[scientific-codebase-distillation-skill](https://github.com/xinzhuwang-wxz/scientific-codebase-distillation)** — Skill for distilling methodology from codebases & papers
 - 📖 **[paper-code-tutorial-skill](https://github.com/xinzhuwang-wxz/paper-code-tutorial-skill)** — Skill for turning papers & reference code into chapter-based bilingual visual tutorials
-
 - 🐋 **[learn-deepseek-harness](https://github.com/xinzhuwang-wxz/learn-deepseek-harness)** — Build an agent runtime step by step
 - 🚀 **[Learn-DeepInfer](https://github.com/xinzhuwang-wxz/Learn-DeepInfer)** — Build a mini inference engine in Python
 
