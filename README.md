@@ -28,6 +28,7 @@
 
 ## 🤖 Agent Infrastructure & Developer Tools
 
+- 🔌 **[agentic-everything](https://github.com/xinzhuwang-wxz/agentic-everything)** — Add governed agents to existing apps
 - 💭 **[Mnemosyne](https://github.com/xinzhuwang-wxz/Mnemosyne)** — Memory is an **agent-native cognitive infrastructure**
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
 - 🍼 **[baby-agent](https://github.com/xinzhuwang-wxz/baby-agent)** — Lightweight CLI coding agent with local tools, skill loading & OpenAI-compatible providers
@@ -36,11 +37,14 @@
 - 📕 **[xhs-extract-master](https://github.com/xinzhuwang-wxz/xhs-extract-master)** — Agent-first XHS (小红书) extractor: 9 composable atoms, no login or API key
 - 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
 
-## 🧩 Coding & Research Skills
+## 🧩 Skills & Learning Resources
 
 - 🧱 **[coherent-fullstack-skill](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Skill for writing fullstack code aligned across frontend, backend & database
 - 🔬 **[scientific-codebase-distillation-skill](https://github.com/xinzhuwang-wxz/scientific-codebase-distillation)** — Skill for distilling methodology from codebases & papers
 - 📖 **[paper-code-tutorial-skill](https://github.com/xinzhuwang-wxz/paper-code-tutorial-skill)** — Skill for turning papers & reference code into chapter-based bilingual visual tutorials
+
+- 🐋 **[learn-deepseek-harness](https://github.com/xinzhuwang-wxz/learn-deepseek-harness)** — Build an agent runtime step by step
+- 🚀 **[Learn-DeepInfer](https://github.com/xinzhuwang-wxz/Learn-DeepInfer)** — Build a mini inference engine in Python
 
 ## 🔬 Scientific AI & Machine Learning
 
