@@ -16,41 +16,44 @@
 
 </p>
 
-## ⚡ AI-Native & Agent Tools
+## ⚡ AI Applications & Agent Systems
 
 - 🧵 **[StyleCapture-plus](https://github.com/xinzhuwang-wxz/StyleCapture-plus)** — 像素风格数字衣橱，抖音创变者计划 AI 黑客松全国三等奖
 - 🌲 **[social--gamma](https://github.com/xinzhuwang-wxz/social--gamma)** — 社交森林，抖音创变者计划 AI 黑客松全国决赛「创意亮点与惊喜感」&「AI 能力运用与技术路径」奖
-- 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — 天文研究助手，交大浦江未来学院 AI for Science 黑客松三等奖
-- 🏙️ **[Nano-Lujiazui](https://github.com/xinzhuwang-wxz/Nano-Lujiazui)** — 24/7 agent-driven A-share trading workspace with hard-coded safety gates & terminal cockpit
 - 👗 **[ai-fashion-designer](https://github.com/xinzhuwang-wxz/ai-fashion-designer)** — Dual-canvas AI garment design studio: photo → cutout → variations → lineart → HD final
+- 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
+- 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
+- 🏙️ **[Nano-Lujiazui](https://github.com/xinzhuwang-wxz/Nano-Lujiazui)** — 24/7 agent-driven A-share trading workspace with hard-coded safety gates & terminal cockpit
+- 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
+
+## 🤖 Agent Infrastructure & Developer Tools
+
 - 💭 **[Mnemosyne](https://github.com/xinzhuwang-wxz/Mnemosyne)** — Memory is an **agent-native cognitive infrastructure**
 - 🛡️ **[agent-memory-guard](https://github.com/xinzhuwang-wxz/agent-memory-guard)** — Scan AI agent memory for PII & secrets across 275+ patterns, with CI/CD integration
 - 🍼 **[baby-agent](https://github.com/xinzhuwang-wxz/baby-agent)** — Lightweight CLI coding agent with local tools, skill loading & OpenAI-compatible providers
-- 🧠 **[OpenPE](https://github.com/xinzhuwang-wxz/OpenPE)** — LLM-driven first-principles causal analysis with competing hypotheses & evidence testing
-- 💹 **[HolisticaQuant](https://github.com/xinzhuwang-wxz/HolisticaQuant)** — End-to-end trading system on LangGraph orchestrating planning, data & strategy agent teams
-- 📚 **[idle-universe](https://github.com/xinzhuwang-wxz/idle-universe-code)** — LLM-powered RAG Q&A system with automated web scraping & Streamlit frontend
-- 🎬 **[agency-brain](https://github.com/xinzhuwang-wxz/agency-brain)** — AI-powered risk and matching platform for Douyin MCN agencies
-- 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
+- 🛠️ **[agent-toolkit](https://github.com/xinzhuwang-wxz/agent-toolkit)** — provides the complete CLI and MCP Server infrastructure
 - 🗺️ **[code-understanding-system](https://github.com/xinzhuwang-wxz/code-understanding-system)** — Agent-native codebase understanding platform with MCP Server
 - 📕 **[xhs-extract-master](https://github.com/xinzhuwang-wxz/xhs-extract-master)** — Agent-first XHS (小红书) extractor: 9 composable atoms, no login or API key
-- 🎯 **[Lite-OmniJev](https://github.com/xinzhuwang-wxz/Lite-OmniJev)** — Lightweight multimodal decision model
+- 🖥️ **[mac-share](https://github.com/xinzhuwang-wxz/mac-share)** — One-click shared terminal for Mac mini with Tailscale mesh VPN
 
-## 🧩 Skills & Architecture
+## 🧩 Coding & Research Skills
 
-- 🛠️ **[agent-toolkit](https://github.com/xinzhuwang-wxz/agent-toolkit)** — provides the complete CLI and MCP Server infrastructure
 - 🧱 **[coherent-fullstack-skill](https://github.com/xinzhuwang-wxz/coherent-fullstack-skill)** — Skill for writing fullstack code aligned across frontend, backend & database
 - 🔬 **[scientific-codebase-distillation-skill](https://github.com/xinzhuwang-wxz/scientific-codebase-distillation)** — Skill for distilling methodology from codebases & papers
 - 📖 **[paper-code-tutorial-skill](https://github.com/xinzhuwang-wxz/paper-code-tutorial-skill)** — Skill for turning papers & reference code into chapter-based bilingual visual tutorials
 
-## 🔬 Physics & ML Research
+## 🔬 Scientific AI & Machine Learning
 
+- 🔭 **[Astro-Insight](https://github.com/xinzhuwang-wxz/Astro-Insight-official)** — 天文研究助手，交大浦江未来学院 AI for Science 黑客松三等奖
 - ⚡ **[Fusion-ParT](https://github.com/xinzhuwang-wxz/Fusion-ParT)** — Official implementation of Fusion-ParticleTransformer for jet physics
 - 🌿 **[BambooHepMl](https://github.com/xinzhuwang-wxz/BambooHepMl)** — Config-driven ML workflow for HEP detector data: ROOT ingestion, declarative feature engineering
 - 🔺 **[trihiggs_lorentznet_test_gpu](https://github.com/xinzhuwang-wxz/trihiggs_lorentznet_test_gpu)** — LorentzNet-based tri-Higgs event classification with GPU-accelerated training
 - 🧪 **[Mol-HEP-Lab](https://github.com/ClawHep/Mol-HEP-Lab)** — Multi-agent autonomous HEP analysis platform with 5-phase pipeline
+- 🎓 **[model-tutorial](https://github.com/xinzhuwang-wxz/model-tutorial)** — Hands-on tutorials walking through classic deep learning models for high-energy physics
+- 🧠 **[OpenPE](https://github.com/xinzhuwang-wxz/OpenPE)** — LLM-driven first-principles causal analysis with competing hypotheses & evidence testing
+- 🎯 **[Lite-OmniJev](https://github.com/xinzhuwang-wxz/Lite-OmniJev)** — Lightweight multimodal decision model
 - 🐱 **[Purr-Sight](https://github.com/xinzhuwang-wxz/Purr-Sight)** — Multimodal ML classifying 8 pet behavioral fields from images & audio
 - 🌐 **[EN-KO Transformer](https://github.com/xinzhuwang-wxz/English_Korean_translation_transformer)** — Transformer-based English-to-Korean neural machine translation
-- 🎓 **[model-tutorial](https://github.com/xinzhuwang-wxz/model-tutorial)** — Hands-on tutorials walking through classic deep learning models for high-energy physics
 
 <p align="center">
   <img src="cr.png" width="280" />
